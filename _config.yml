@@ -22,7 +22,7 @@ github_username:  rineol
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-linkedin_username: juliachalasiak
+linkedin_username: julia-chalasiak
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -31,10 +31,10 @@ linkedin_username: juliachalasiak
 
 # Additional icon links
 additional_links:
-- title: kaggle.com
+- title: Kaggle Link
   icon: fab fa-kaggle
   url: https://www.kaggle.com/jchalasiak
-- title: tableau.com
+- title: Tableau Link
   icon: fas fa-table
   url: https://public.tableau.com/app/profile/julia.cha.asiak
 # - title: another link
