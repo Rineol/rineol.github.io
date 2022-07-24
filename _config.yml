@@ -50,9 +50,7 @@ about_profile_image: images/jch.jpg
 about_content: | # this will include new lines to allow paragraphs
   Site in progress.
 
-  I am a final year student of Computer Science with specialisation in Technologies of Data Processing. During
-studies I developed projects in big data, data mining and machine learning areas. Currently I am finishing my master thesis. 
-I want to pursue my career in data science.
+  I am a final year student of Computer Science with specialisation in Technologies of Data Processing. During studies I developed projects in big data, data mining and machine learning areas. Currently I am finishing my master thesis. I want to pursue my career in data science.
 
   I am most skilled in: <mark>Python</mark>, <mark>Numpy</mark>, <mark>Pandas</mark>, <mark>Seaborn</mark>, <mark>SQL</mark>, <mark>Tableau</mark>.
 
